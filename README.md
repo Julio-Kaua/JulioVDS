@@ -1,3 +1,1 @@
-- 👋 Oi eu sou @julinbrabo
-- 👀 Estou interessado em aprender a programar novas linguagens
-- 🌱 atualmente estou aprendendo a linguagem de javascript e scratch
+
